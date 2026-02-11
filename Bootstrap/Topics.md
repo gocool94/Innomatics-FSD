@@ -15,9 +15,10 @@ Python, DataStructure, MERN Stack
 
 -----
 
-Varshitha -
-Veeru - 1
-Jadhav -
-Shahid -
-Vethan - 1
-Jay -
+Varshitha - 
+Veeru - 2
+Jadhav - 1
+Shahid - 1
+Vethan - 2
+Jay - 
+Suvarna - 1

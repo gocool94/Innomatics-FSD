@@ -56,4 +56,15 @@ Libraries -> Small code -> small problems to solve
 Framework -> Big package -> Solves big problems
 
 
+Gokul --> Project A --> Different module --- module
+Jay --> Project A  --> Different module
+
+Repository
+Everyday --> complete the day --> update the code --> git commit
+git pull --> repeat the cycle--> you dont break the chain
+
+
+GIT -> Version control system..!
+
+
 
